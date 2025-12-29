@@ -42,17 +42,21 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+#  Skills
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **Languages**: Mandarin (Native), English (IELTS: 7.0), Cantonese 
+- **Technical Skills**: Business Analysis, Python programming, Data Visualisation, Software process and management, CRM Systems (Salesforce, Oracle ERP), Web and Mobile Application Development, Data Analysis, C# programming, Unity, Unreal Engine, Video editing (Adobe Premiere Pro)
+- **Version** **Control**: Proficient in Git & GitHub (repository management, branching, merging, pull requests)
+- **Blockchain** **&** **Web3**: Binance Academy Certificates (Blockchain, DeFi, NFTs, DApps, Crypto Trading, Cryptocurrency Systems) 
+- **Financial** **Analysis**: Securities Trading, K-line Analysis, Financial Reporting
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+#  Educations
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- 09/2025 – Present, MSc in Metaverse Technology (Taught Postgraduate) from The Hong Kong Polytechnic University
+- 09/2021 – 06/2025, BSc in Information Management and Information Systems from South China Normal University 
+- 09/2021 – 06/2025, BSc(Honours) in Business Management and Information Systems from University of Aberdeen
+
+#  Internships
+
+- 06/2024 – 07/2024, Product Operations Intern, Zhuhai Edge Smart Drive Technology Co., Ltd.
+- 01/2024 – 02/2024, Retail Management Intern, Guangfa Securities Co., Ltd. (Zhuhai Jiuzhou Avenue Branch)

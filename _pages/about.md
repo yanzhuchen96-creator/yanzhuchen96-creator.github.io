@@ -17,39 +17,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
-
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-#  Skills
-
-- **Languages**: Mandarin (Native), English (IELTS: 7.0), Cantonese 
-- **Technical Skills**: Business Analysis, Python programming, Data Visualisation, Software process and management, CRM Systems (Salesforce, Oracle ERP), Web and Mobile Application Development, Data Analysis, C# programming, Unity, Unreal Engine, Video editing (Adobe Premiere Pro)
-- **Version** **Control**: Proficient in Git & GitHub (repository management, branching, merging, pull requests)
-- **Blockchain** **&** **Web3**: Binance Academy Certificates (Blockchain, DeFi, NFTs, DApps, Crypto Trading, Cryptocurrency Systems) 
-- **Financial** **Analysis**: Securities Trading, K-line Analysis, Financial Reporting
-
 #  Educations
 
 - 09/2025 – Present, MSc in Metaverse Technology (Taught Postgraduate) from The Hong Kong Polytechnic University
@@ -60,3 +27,52 @@ My research interest includes neural machine translation and computer vision. I 
 
 - 06/2024 – 07/2024, Product Operations Intern, Zhuhai Edge Smart Drive Technology Co., Ltd.
 - 01/2024 – 02/2024, Retail Management Intern, Guangfa Securities Co., Ltd. (Zhuhai Jiuzhou Avenue Branch)
+
+#  Project Experience
+
+## ***\*AI-enabled\**** ***\*Rapid\**** ***\*Testing\**** ***\*for\**** ***\*Medicinal\**** ***\*Herbs\**** ***\*and\**** ***\*Fragrances\**** ***\*Project\****
+
+*Second* *Prize* *of* *8th* *“**Maker* *Guangdong**”* *Digital* *Transformation* *SMEs* *Innovation* *&* *Entrepreneurship* *Competition*
+
+● **Industry Insights & Market Fit:** Conducted in-depth market research for AI-driven testing tools, employing SWOT and PESTEL analysis to identify four strategic opportunities, including applications for metaverse-driven supply chain solutions.
+
+● **Innovation** **in** **Product** **Design:** Contributed to defining technical requirements for portable testing devices, clarifying its functional requirements and technical specifications.
+
+● **Solution Design:** Compiled over 20 customer feedback items, aligned them with the latest industry trends, and transformed the feedback into actionable product development plans.
+
+● **Project Leadership:** Managed project timelines and team collaboration, drove efficient collaboration between AI engineers, data analysts, and product developers to ensure timely delivery of projects within the 4-month timeframe. Participated in the design of business plans,completed project presentations, and gained the attention of many investors and enterprises.
+
+## ***\*Dynamic\**** ***\*Pricing\**** ***\*for\**** ***\*Train\**** ***\*Tickets\**** ***\*(Renfe\**** ***\*High-Speed\**** ***\*Rail\**** ***\*Network)\****
+
+*Undergraduate* *Graduation* *Project*
+
+● Machine Learning Application: Developed a dynamic pricing model for Renfe’s high-speed rail tickets using Random Forest regression, optimizing revenue and fairness under EU regulatory constraints.
+
+● Data Analysis & Feature Engineering: Cleaned and processed 8,487 real-world ticket records; engineered features such as booking lead time, travel duration, seat class, and train type to identify key pricing factors.
+
+● Model Optimization: Compared One-hot and Target Encoding for spatial features, reducing model complexity by 40% and improving operational efficiency; achieved MAE of €4.97 and R² of 0.90.
+
+● Business Insights: Identified pricing strategies (e.g., mid-term booking promotions, cross-subsidy between routes), and demonstrated how dynamic pricing can encourage modal shift from air to rail.
+
+Impact: Enhanced pricing accuracy and revenue (+2.9%), supported real-time fare adjustments, and balanced profitability with accessibility and fairness
+
+## ***\*Enterprise\**** ***\*Computing\**** ***\*and\**** ***\*Business\**** ***\*Application\**** ***\*Development\****
+
+● Led an 8-person team to develop a digital solution for "Prepared Cantonese Cuisine Production and Sales", integrating AR for interactive product displays and implementing mobile-responsive modules for end-user interaction.
+
+● Produced a comprehensive 15,000-word report recognized by professors for its innovation and technical execution.
+
+## ***\*Software\**** ***\*Process\**** ***\*and\**** ***\*Management\****
+
+● Contributed to the development of a modular CRM system using the Scrum methodology.
+
+● Integrated Salesforce and Oracle ERP, delivering high-quality results through iterative development.
+
+#  Skills
+
+- **Languages**: Mandarin (Native), English (IELTS: 7.0), Cantonese 
+- **Technical Skills**: Business Analysis, Python programming, Data Visualisation, Software process and management, CRM Systems (Salesforce, Oracle ERP), Web and Mobile Application Development, Data Analysis, C# programming, Unity, Unreal Engine, Video editing (Adobe Premiere Pro)
+- **Version** **Control**: Proficient in Git & GitHub (repository management, branching, merging, pull requests)
+- **Blockchain** **&** **Web3**: Binance Academy Certificates (Blockchain, DeFi, NFTs, DApps, Crypto Trading, Cryptocurrency Systems) 
+- **Financial** **Analysis**: Securities Trading, K-line Analysis, Financial Reporting
+

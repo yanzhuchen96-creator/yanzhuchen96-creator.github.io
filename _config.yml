@@ -21,7 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
+  name             : "CHEN Yanzhu"
   avatar           : "images/android-chrome-512x512.png"
+  bio              : "MSc in Metaverse Technology (Taught Postgraduate) from Hong Kong Polytechnic University, 09/2025-Present 
+   BSc in Information Management and Information Systems from South China Normal University "
   location         : "Beijing, China"
   employer         :
   pubmed           : 

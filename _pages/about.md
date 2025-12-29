@@ -30,9 +30,9 @@ redirect_from:
 
 #  Project Experience
 
-## ***\*AI-enabled\**** ***\*Rapid\**** ***\*Testing\**** ***\*for\**** ***\*Medicinal\**** ***\*Herbs\**** ***\*and\**** ***\*Fragrances\**** ***\*Project\****
+## **AI-enabled Rapid Testing for Medicinal Herbs and Fragrances Project**
 
-*Second* *Prize* *of* *8th* *“**Maker* *Guangdong**”* *Digital* *Transformation* *SMEs* *Innovation* *&* *Entrepreneurship* *Competition*
+*Second* *Prize* *of* *8th* *“Maker* *Guangdong”* *Digital* *Transformation* *SMEs* *Innovation* *&* *Entrepreneurship* *Competition*
 
 ● **Industry Insights & Market Fit:** Conducted in-depth market research for AI-driven testing tools, employing SWOT and PESTEL analysis to identify four strategic opportunities, including applications for metaverse-driven supply chain solutions.
 
@@ -42,7 +42,7 @@ redirect_from:
 
 ● **Project Leadership:** Managed project timelines and team collaboration, drove efficient collaboration between AI engineers, data analysts, and product developers to ensure timely delivery of projects within the 4-month timeframe. Participated in the design of business plans,completed project presentations, and gained the attention of many investors and enterprises.
 
-## ***\*Dynamic\**** ***\*Pricing\**** ***\*for\**** ***\*Train\**** ***\*Tickets\**** ***\*(Renfe\**** ***\*High-Speed\**** ***\*Rail\**** ***\*Network)\****
+## Dynamic Pricing for Train Tickets (Renfe High-Speed Rail Network)
 
 *Undergraduate* *Graduation* *Project*
 
@@ -56,13 +56,13 @@ redirect_from:
 
 Impact: Enhanced pricing accuracy and revenue (+2.9%), supported real-time fare adjustments, and balanced profitability with accessibility and fairness
 
-## ***\*Enterprise\**** ***\*Computing\**** ***\*and\**** ***\*Business\**** ***\*Application\**** ***\*Development\****
+## Enterprise Computing and Business Application Development
 
 ● Led an 8-person team to develop a digital solution for "Prepared Cantonese Cuisine Production and Sales", integrating AR for interactive product displays and implementing mobile-responsive modules for end-user interaction.
 
 ● Produced a comprehensive 15,000-word report recognized by professors for its innovation and technical execution.
 
-## ***\*Software\**** ***\*Process\**** ***\*and\**** ***\*Management\****
+## **Software Process and Management**
 
 ● Contributed to the development of a modular CRM system using the Scrum methodology.
 
